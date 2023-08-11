@@ -1,0 +1,11 @@
+.wrapper{
+    margin: auto;
+    width: 100%;
+}
+.nav{
+    border: 2px solid purple;
+    width: 85%;
+    height: 4em;
+    margin: 1em auto;
+    overflow: auto;
+}
